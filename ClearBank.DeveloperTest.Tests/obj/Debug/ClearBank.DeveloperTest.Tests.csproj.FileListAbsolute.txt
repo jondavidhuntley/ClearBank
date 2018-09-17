@@ -1,0 +1,17 @@
+C:\Temp\ClearBank.DeveloperTest\ClearBank.DeveloperTest.Tests\bin\Debug\ClearBank.DeveloperTest.Tests.dll
+C:\Temp\ClearBank.DeveloperTest\ClearBank.DeveloperTest.Tests\bin\Debug\ClearBank.DeveloperTest.Tests.pdb
+C:\Temp\ClearBank.DeveloperTest\ClearBank.DeveloperTest.Tests\bin\Debug\ClearBank.DeveloperTest.dll
+C:\Temp\ClearBank.DeveloperTest\ClearBank.DeveloperTest.Tests\bin\Debug\ClearBank.DeveloperTest.pdb
+C:\Temp\ClearBank.DeveloperTest\ClearBank.DeveloperTest.Tests\obj\Debug\ClearBank.DeveloperTest.Tests.csprojResolveAssemblyReference.cache
+C:\Temp\ClearBank.DeveloperTest\ClearBank.DeveloperTest.Tests\obj\Debug\ClearBank.DeveloperTest.Tests.dll
+C:\Temp\ClearBank.DeveloperTest\ClearBank.DeveloperTest.Tests\obj\Debug\ClearBank.DeveloperTest.Tests.pdb
+C:\Temp\ClearBank.DeveloperTest\ClearBank.DeveloperTest.Tests\bin\Debug\Castle.Core.dll
+C:\Temp\ClearBank.DeveloperTest\ClearBank.DeveloperTest.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Temp\ClearBank.DeveloperTest\ClearBank.DeveloperTest.Tests\bin\Debug\Moq.dll
+C:\Temp\ClearBank.DeveloperTest\ClearBank.DeveloperTest.Tests\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Temp\ClearBank.DeveloperTest\ClearBank.DeveloperTest.Tests\bin\Debug\System.ValueTuple.dll
+C:\Temp\ClearBank.DeveloperTest\ClearBank.DeveloperTest.Tests\bin\Debug\Castle.Core.xml
+C:\Temp\ClearBank.DeveloperTest\ClearBank.DeveloperTest.Tests\bin\Debug\Moq.pdb
+C:\Temp\ClearBank.DeveloperTest\ClearBank.DeveloperTest.Tests\bin\Debug\Moq.xml
+C:\Temp\ClearBank.DeveloperTest\ClearBank.DeveloperTest.Tests\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Temp\ClearBank.DeveloperTest\ClearBank.DeveloperTest.Tests\bin\Debug\System.ValueTuple.xml
